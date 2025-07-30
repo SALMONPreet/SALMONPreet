@@ -19,7 +19,7 @@ I'm **Samanpreet Singh Lang**, a Physics postgrad, who is interested in Astrophy
 
 📫 **Links**: <br/>
 Twitter/X: [@That_BrownChap](https://x.com/That_BrownChap) <br/>
-Medium: [@cosmic-salmon]([medium.com/@cosmic-salmon](https://medium.com/@cosmic-salmon)) <br/>
+Medium: [@cosmic-salmon](https://medium.com/@cosmic-salmon) <br/>
 Zenodo: [Lang, Samanpreet Singh](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Lang%2C%20Samanpreet%20Singh%22&l=list&p=1&s=10&sort=bestmatch)
 
 🛰️ *"La victoire appartient au plus opiniâtre." - Victory belongs to the most tenacious* — Roland Garros
