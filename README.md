@@ -1,6 +1,6 @@
 
 ## <img width="150" height="150" alt="216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85" src="https://c.tenor.com/1VAMPydBIokAAAAC/obi-wan-kenobi-star-wars.gif" /> Hello there!
-I'm **Samanpreet Singh Lang**, a Physics postgrad, who is interested in Astrophysics 🌌  
+### I'm **Samanpreet Singh Lang**, a Physics postgrad, who is interested in Astrophysics 🌌  
 ## ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/e7df5c64-1b88-45f5-8d8a-dbf9ec4fa6a3)
 
      
