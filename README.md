@@ -1,3 +1,6 @@
+
+![BHW_Binary_Black_Holes_Accretion_Disk](https://github.com/user-attachments/assets/cf1df07f-cf76-4402-8084-08c3f086c879)
+
 ## 👋 Hello there!  
 I'm **Samanpreet Singh Lang**, a Physics postgrad, who is interested in Astrophysics 🌌
 
