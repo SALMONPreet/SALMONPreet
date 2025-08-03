@@ -12,7 +12,7 @@
 💻 **C++ / Python** - working on astrophysical simulations (SPH, CCC, and more). <br/>
 📚 Currently exploring **computational astrophysics** & **machine learning for astronomy**. <br/>
 🪐 Always open to deep space discussions, wild cosmic theories, and collaborative science projects. <br/>
-📫 Hit me up - samanpreetsinghlang@gmail.com
+📫 Hit me up - spsinghlang@gmail.com
 
 ---
 
