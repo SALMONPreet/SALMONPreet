@@ -18,7 +18,9 @@
 📚 Currently exploring **computational astrophysics** & **machine learning for astronomy**. <br/>
 🪐 Always open to deep space discussions, wild cosmic theories, and collaborative science projects. <br/>
 
-📫 Hit me up - spsinghlang@gmail.com   <img width="50" height="50" alt="216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyenpxMWV5cXlweDJybm9kZDJmN21qam1vdjZsM2UwdGNsbGY2bGkydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uSXTDFYDWpelW/source.gif" />
+---
+
+## 📫 Hit me up - spsinghlang@gmail.com   <img width="50" height="50" alt="216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyenpxMWV5cXlweDJybm9kZDJmN21qam1vdjZsM2UwdGNsbGY2bGkydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uSXTDFYDWpelW/source.gif" />
 
 ---
 
