@@ -18,7 +18,7 @@
 📚 Currently exploring **computational astrophysics** & **machine learning for astronomy**. <br/>
 🪐 Always open to deep space discussions, wild cosmic theories, and collaborative science projects. <br/>
 
-📫 Hit me up - spsinghlang@gmail.com   <img width="50" height="50" alt="216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85" src="https://media.tenor.com/wEt6BhusryIAAAAM/stare-sam-jackson.gif" />
+📫 Hit me up - spsinghlang@gmail.com   <img width="50" height="80" alt="216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85" src="https://media.tenor.com/wEt6BhusryIAAAAM/stare-sam-jackson.gif" />
 
 ---
 
