@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 **My Mind** <br/>
+### 🧠 **My Mind** <br/>
 🔭 Passionate about galaxies, black holes, and everything in between. <br/>
 💻 **C++ / Python** - working on astrophysical simulations (SPH, CCC, and more). <br/>
 📚 Currently exploring **computational astrophysics** & **machine learning for astronomy**. <br/>
