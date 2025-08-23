@@ -30,10 +30,10 @@
 
 ---
 
-### 📫 **Links**: <br/>
-Twitter/X: [@That_BrownChap](https://x.com/That_BrownChap) <br/>
-Medium: [@cosmic-salmon](https://medium.com/@cosmic-salmon) <br/>
-Zenodo: [Lang, Samanpreet Singh](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Lang%2C%20Samanpreet%20Singh%22&l=list&p=1&s=10&sort=bestmatch)
+## 📫 **Links**: <br/>
+### Twitter/X: [@That_BrownChap](https://x.com/That_BrownChap) <br/>
+### Substack: [Cosmic Conundrums](https://cosmicconundrums.substack.com/) <br/>
+### Zenodo: [Lang, Samanpreet Singh](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Lang%2C%20Samanpreet%20Singh%22&l=list&p=1&s=10&sort=bestmatch)
 
 ## ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/e7df5c64-1b88-45f5-8d8a-dbf9ec4fa6a3)
 
