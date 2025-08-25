@@ -1,11 +1,11 @@
 
 
 
-<img width="1000" height="500" alt="216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85" src="https://github.com/user-attachments/assets/6ee56000-3520-4584-9c39-b08eddde979b" />
+## <img width="1000" height="500" alt="216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85" src="https://github.com/user-attachments/assets/6ee56000-3520-4584-9c39-b08eddde979b" />
 
 
 
-## <img width="150" height="150" alt="216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85" src="https://c.tenor.com/1VAMPydBIokAAAAC/obi-wan-kenobi-star-wars.gif" /> Hello there!
+ ## <img width="150" height="300" alt="216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85" src="https://github.com/user-attachments/assets/1e7f638e-9e79-43f7-9ac2-4b13880890f4" /> 
 
 
 ### My name is **Samanpreet Singh Lang**, I am a Physics postgrad....who is interested in Astronomy🌌  
