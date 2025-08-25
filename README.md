@@ -1,15 +1,15 @@
 
 
 
-## <img width="1000" height="500" alt="216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85" src="https://github.com/user-attachments/assets/6ee56000-3520-4584-9c39-b08eddde979b" />
+ <img width="1000" height="500" alt="216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85" src="https://github.com/user-attachments/assets/6ee56000-3520-4584-9c39-b08eddde979b" />
 
+---
 
+### <img width="120" height="300" alt="216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85" src="https://github.com/user-attachments/assets/1e7f638e-9e79-43f7-9ac2-4b13880890f4" /> My name is **Samanpreet Singh Lang**, I am a Physics postgrad....who is interested in Astronomy🌌  
 
- ## <img width="150" height="300" alt="216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85" src="https://github.com/user-attachments/assets/1e7f638e-9e79-43f7-9ac2-4b13880890f4" /> 
-
-
-### My name is **Samanpreet Singh Lang**, I am a Physics postgrad....who is interested in Astronomy🌌  
-## <img width="1000" height="500" alt="216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85" src="https://i.imgur.com/q5JwVt4.gif" />
+---
+ 
+ <img width="1000" height="500" alt="216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85" src="https://i.imgur.com/q5JwVt4.gif" />
 
      
 
@@ -41,7 +41,7 @@
 ---
 
 
-## ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/e7df5c64-1b88-45f5-8d8a-dbf9ec4fa6a3)
+ ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/e7df5c64-1b88-45f5-8d8a-dbf9ec4fa6a3)
 
 
 ---
