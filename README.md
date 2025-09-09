@@ -58,6 +58,11 @@
 
 ---
 
+### 📋 My Certifications:
+- [Machine Learning with Python](https://www.freecodecamp.org/certification/brown_bat/machine-learning-with-python-v7) <br/>
+- [Scientific Computing with Python](https://www.freecodecamp.org/certification/brown_bat/scientific-computing-with-python-v7) 
+
+---
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SALMONPreet&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
