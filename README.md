@@ -32,8 +32,8 @@
 ---
 
 ### 🚀 Projects I'm involved in:
-- 🌩️ *Cloud-Cloud Collisions* using SPH simulations  
-- 🧠 *UI for learning C++* through real-world physics problems — bridging programming with core physical intuition  
+- 🌩️ [*Cloud-Cloud Collisions* using SPH simulations](https://github.com/SALMONPreet/SPH-Simulations-Fluid-and-Astrophysics)  
+- 🧠 [*UI for learning C++* through real-world physics problems — bridging programming with core physical intuition](https://github.com/thecompassproject/Compass)  
 
 ---
 
