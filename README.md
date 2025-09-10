@@ -32,16 +32,16 @@
 ---
 
 ### 🚀 Projects I'm involved in:
-- 🌩️ [*Cloud-Cloud Collisions* using SPH simulations](https://github.com/SALMONPreet/SPH-Simulations-Fluid-and-Astrophysics)  
-- 🧠 [*UI for learning C++* through real-world physics problems — bridging programming with core physical intuition](https://github.com/thecompassproject/Compass)  
+- ### 🌩️ [*Cloud-Cloud Collisions* using SPH simulations](https://github.com/SALMONPreet/SPH-Simulations-Fluid-and-Astrophysics)  
+- ### 🧠 [*UI for learning C++* through real-world physics problems — bridging programming with core physical intuition](https://github.com/thecompassproject/Compass)  
 
 ---
 
 ## 📫 **Links**: <br/>
-### Twitter/X: [@That_BrownChap](https://x.com/That_BrownChap) <br/>
-### Substack: [Cosmic Conundrums](https://cosmicconundrums.substack.com/) <br/>
-### Zenodo: [Lang, Samanpreet Singh](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Lang%2C%20Samanpreet%20Singh%22&l=list&p=1&s=10&sort=bestmatch) <br/>
-### ORCID iD: [Samanpreet Singh Lang](https://orcid.org/0009-0009-4801-5619)
+- ### Twitter/X: [@That_BrownChap](https://x.com/That_BrownChap) <br/>
+- ### Substack: [Cosmic Conundrums](https://cosmicconundrums.substack.com/) <br/>
+- ### Zenodo: [Lang, Samanpreet Singh](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Lang%2C%20Samanpreet%20Singh%22&l=list&p=1&s=10&sort=bestmatch) <br/>
+- ### ORCID iD: [Samanpreet Singh Lang](https://orcid.org/0009-0009-4801-5619)
 
  
 ---
@@ -60,8 +60,8 @@
 ---
 
 ### 📋 My Certifications:
-- [Machine Learning with Python](https://www.freecodecamp.org/certification/brown_bat/machine-learning-with-python-v7) <br/>
-- [Scientific Computing with Python](https://www.freecodecamp.org/certification/brown_bat/scientific-computing-with-python-v7) 
+- ### [Machine Learning with Python](https://www.freecodecamp.org/certification/brown_bat/machine-learning-with-python-v7) <br/>
+- ### [Scientific Computing with Python](https://www.freecodecamp.org/certification/brown_bat/scientific-computing-with-python-v7) 
 
 ---
 ### 🔝 Top Contributed Repo
