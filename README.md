@@ -20,14 +20,15 @@
 
 ### 🧠 **My Mind:**   <img width="25" height="25" alt="216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85" src="https://github.com/user-attachments/assets/61b6928b-9bd7-4786-a5aa-70cd2718c040" />   <br/>
 - 🔭 Passionate about galaxies, black holes, and everything in between. <br/>
-- 💻 **C++ / Python** - working on astrophysical simulations (SPH, CCC, and more). <br/>
+- 💻 **C++ / Python** - working on astrophysical simulations (SPH, CCC, CNN and more). <br/>
 - 📚 Currently exploring **computational astrophysics** & **machine learning for astronomy**. <br/>
 - 🪐 Always open to deep space discussions, wild cosmic theories, and collaborative science projects. <br/>
 
 ---
 
 ### 📫 Hit me up: <img width="60" height="60" alt="216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyenpxMWV5cXlweDJybm9kZDJmN21qam1vdjZsM2UwdGNsbGY2bGkydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uSXTDFYDWpelW/source.gif" />
-- ### spsinghlang@gmail.com   
+- ### spsinghlang@gmail.com
+- ### samanpreetsinghlang@gmail.com  
 
 ---
 
