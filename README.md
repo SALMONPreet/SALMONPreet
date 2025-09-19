@@ -24,6 +24,7 @@
 - 💻 **C++ / Python** - working on astrophysical simulations (SPH, CCC, CNN and more). <br/>
 - 📚 Currently exploring **computational astrophysics** & **machine learning for astronomy**. <br/>
 - 🪐 Always open to deep space discussions, wild cosmic theories, and collaborative science projects. <br/>
+- 🧔 My [CV.](https://github.com/SALMONPreet/SALMONPreet/blob/main/CV.pdf)
 
 ---
 
