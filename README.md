@@ -36,7 +36,7 @@
 
 ### 🚀 Projects I'm involved in:
 - ### 🔭 [*Galaxy Morphology Classification Using Convolutional Neural Networks*](https://github.com/SALMONPreet/Galaxy-Classification-via-Machine-Learning/blob/main/README.md)
-- ### 🌩️ [*Cloud-Cloud Collisions* using SPH simulations](https://github.com/SALMONPreet/SPH-Simulations-Fluid-and-Astrophysics)  
+- ### 🌩️ [*Cloud-Cloud Collisions* using SPH simulations](https://github.com/SALMONPreet/SPH-Simulations-Fluid-and-Astrophysics/blob/main/README.md)  
 - ### 🧠 [*UI for learning C++* through real-world physics problems — bridging programming with core physical intuition](https://github.com/thecompassproject/Compass)  
 
 ---
