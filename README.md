@@ -44,6 +44,11 @@
 ## 📫 **Links**: <br/>
 - ### Twitter/X: [@That_BrownChap](https://x.com/That_BrownChap) <br/>
 - ### Substack: [Cosmic Conundrums](https://cosmicconundrums.substack.com/) <br/>
+  - **Latest Articles**
+  - [The End of Our Galaxy?? The Truth About Andromeda’s Approach](https://cosmicconundrums.substack.com/p/the-end-of-our-galaxy-the-truth-about)
+  - [Earth Exists Because Our Sun Got Lucky !!](https://cosmicconundrums.substack.com/p/earth-exists-because-our-sun-got)
+  - [The Universe’s First Drama Queens—Population III Stars](https://cosmicconundrums.substack.com/p/the-universes-first-drama-queenspopulation)
+
 - ### Zenodo: [Lang, Samanpreet Singh](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Lang%2C%20Samanpreet%20Singh%22&l=list&p=1&s=10&sort=bestmatch) <br/>
 - ### ORCID iD: [Samanpreet Singh Lang](https://orcid.org/0009-0009-4801-5619)
 
