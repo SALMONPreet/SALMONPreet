@@ -45,9 +45,10 @@
 - ### Twitter/X: [@That_BrownChap](https://x.com/That_BrownChap) <br/>
 - ### Substack: [Cosmic Conundrums](https://cosmicconundrums.substack.com/) <br/>
   - **Latest Articles**
+    - [End Of A Star's End](https://cosmicconundrums.substack.com/p/end-of-a-stars-end)
     - [A Weird Set Of Dancing Stars, Algol Type Binaries](https://cosmicconundrums.substack.com/p/a-weird-set-of-dancing-stars-algol)
     - [Messages from Dying Stars, Written in Radiation](https://cosmicconundrums.substack.com/p/messages-from-dying-stars-written)
-    - [The End of Our Galaxy?? The Truth About Andromeda’s Approach](https://cosmicconundrums.substack.com/p/the-end-of-our-galaxy-the-truth-about)
+    
 
  
 
