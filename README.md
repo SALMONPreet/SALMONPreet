@@ -45,9 +45,9 @@
 - ### Twitter/X: [@That_BrownChap](https://x.com/That_BrownChap) <br/>
 - ### Substack: [Cosmic Conundrums](https://cosmicconundrums.substack.com/) <br/>
   - **Latest Articles**
+    - [The Paradox Of Luck](https://cosmicconundrums.substack.com/p/the-lucky-paradox?r=2rlzfp)
     - [Intoxicatingly Interesting Intergalactic Medium](https://cosmicconundrums.substack.com/p/intoxicatingly-interesting-intergalactic?r=2rm1d3)
     - [End Of A Star's End](https://cosmicconundrums.substack.com/p/end-of-a-stars-end)
-    - [A Weird Set Of Dancing Stars, Algol Type Binaries](https://cosmicconundrums.substack.com/p/a-weird-set-of-dancing-stars-algol)
     
     
 
