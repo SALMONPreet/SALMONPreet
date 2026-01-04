@@ -24,7 +24,7 @@
 - 💻 **C++ / Python** - working on astrophysical simulations (SPH, CCC, CNN and more). <br/>
 - 📚 Currently exploring **computational astrophysics** & **machine learning for astronomy**. <br/>
 - 🪐 Always open to deep space discussions, wild cosmic theories, and collaborative science projects. <br/>
-- 🧔 My [CV.](https://github.com/SALMONPreet/SALMONPreet/blob/main/CV.pdf)
+
 
 ---
 
@@ -45,9 +45,10 @@
 - ### Twitter/X: [@That_BrownChap](https://x.com/That_BrownChap) <br/>
 - ### Substack: [Cosmic Conundrums](https://cosmicconundrums.substack.com/) <br/>
   - **Latest Articles**
+    - [Meet The Little Red Dots](https://cosmicconundrums.substack.com/p/meet-the-little-red-dots?r=2rm1d3)
     - [The Paradox Of Luck](https://cosmicconundrums.substack.com/p/the-lucky-paradox?r=2rlzfp)
     - [Intoxicatingly Interesting Intergalactic Medium](https://cosmicconundrums.substack.com/p/intoxicatingly-interesting-intergalactic?r=2rm1d3)
-    - [End Of A Star's End](https://cosmicconundrums.substack.com/p/end-of-a-stars-end)
+    
     
     
 
