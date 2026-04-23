@@ -2,13 +2,13 @@
  
 ---
 
-<img width="1000" height="500" alt="A New Design - Made with PosterMyWall (2)" src="https://github.com/user-attachments/assets/17bb8cad-3054-49ae-827e-bc5faeb5fb5c" />
+<img width="1000" height="180" alt="A New Design - Made with PosterMyWall (2)" src="https://github.com/user-attachments/assets/17bb8cad-3054-49ae-827e-bc5faeb5fb5c" />
 
  
 
 ---
 
-## <img width="120" height="300" alt="216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85" src="https://github.com/user-attachments/assets/1e7f638e-9e79-43f7-9ac2-4b13880890f4" /> &nbsp;&nbsp;My name is **Samanpreet Singh Lang**, I am a Physics postgrad.... &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who is interested in Astronomy🌌  
+## <img width="140" height="170" alt="216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85" src="https://github.com/user-attachments/assets/1e7f638e-9e79-43f7-9ac2-4b13880890f4" /> &nbsp;&nbsp;My name is **Samanpreet Singh Lang**, I am a Physics postgrad.... &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who is interested in Astronomy🌌  
 
 
  
